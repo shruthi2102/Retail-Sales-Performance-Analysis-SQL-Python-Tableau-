@@ -20,4 +20,4 @@ This project analyzes retail sales data using SQL, Python, and Tableau to genera
 - Peak sales observed on Jan 5
 
 ## Dashboard
-(Insert your screenshot here)
+<img width="1273" height="809" alt="Dashboard" src="https://github.com/user-attachments/assets/d008c026-d9e8-4e41-a93e-5f3629b8b855" />
